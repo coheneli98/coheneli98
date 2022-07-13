@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything tech
 - 🧑‍💻 I currently do Frontend and a lot of Wordpress - Elementor (and more!)
 - 🌱 I’m currently learning a full stack course
-- 💞️ I’m looking to collaborate on any small easy going project
+- 💞️ I’m looking to collaborate on any small easy going projects
 - 📫 You can email me at info@echocreations.co.uk
 
 <!---
