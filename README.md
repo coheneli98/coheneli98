@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Eli
-- 👀 I’m interested in anything tech
 - 🧑‍💻 I currently do Frontend
-- 🌱 I’m currently learning a full stack course
-- 💞️ I’m looking to collaborate on any small easy going projects
-- 🐤 Check out my twitter @theLadEli
+- 🌱 I’m learning full stack
+- 🤝 Open to collaborate on any small projects
 
 <!---
 
