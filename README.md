@@ -5,17 +5,21 @@
 
 ![Eli's GitHub stats - including private](https://github-readme-stats.vercel.app/api?username=theLadEli&count_private=true)
 
-| Language | Documentation | Progress |
-|---|---|---|
-| JavaScript | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md) | ![50%](https://progress-bar.xyz/50) |
-| Python | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/Python#readme) | |
-| SQL | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/SQL) | |
-| C# | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/C%23/ReadMe.md) | |
-| HTML | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme) | |
+# My Programming Skillset
+To help learn and understand the languages I learn, I've written my own documentation (for most) while studying.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+| Language | Documentation & Notes | Progress |
+|---|---|---|
+| JavaScript | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md) | ![75%](https://progress-bar.xyz/65) |
+| Python | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/Python#readme) | ![45%](https://progress-bar.xyz/45) |
+| SQL | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/SQL) | ![10%](https://progress-bar.xyz/10) |
+| C# | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/C%23/ReadMe.md) | ![5%](https://progress-bar.xyz/5) |
+| HTML | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme) | ![100%](https://progress-bar.xyz/100) |
+
 
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Some of my Stats:
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLadEli)](https://github.com/theLadEli/github-readme-stats)
