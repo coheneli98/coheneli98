@@ -6,6 +6,18 @@
 **My JavaScript documentation:**
 [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md)
 
+**My Python documentation:**
+[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md](https://github.com/theLadEli/my-full-stack-journey/tree/main/Python#readme)
+
+**My SQL documentation:**
+[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/SQL)
+
+**My C# documentation:**
+[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md](https://github.com/theLadEli/my-full-stack-journey/blob/main/C%23/ReadMe.md)
+
+**My HTML documentation:**
+[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md](https://github.com/theLadEli/my-full-stack-journey/blob/main/C%23/ReadMe.md](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme)
+
 <!---
 
 
