@@ -18,14 +18,15 @@
 **My HTML documentation:**
 [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme)
 
-<!---
 
+![Eli's GitHub stats - including private](https://github-readme-stats.vercel.app/api?username=theLadEli&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 
 Some of my Stats:
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLadEli)](https://github.com/theLadEli/github-readme-stats)
 
-Some of my Stats (including private):
-![Eli's GitHub stats - including private](https://github-readme-stats.vercel.app/api?username=theLadEli&count_private=true)
 
 Some icons:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLadEli&show_icons=true)
