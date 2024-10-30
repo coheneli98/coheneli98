@@ -3,6 +3,9 @@
 - 🌱 I’m learning full stack
 - 🤝 Open to collaborate on any small projects
 
+**My JavaScript documentation:**
+[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md)
+
 <!---
 
 
