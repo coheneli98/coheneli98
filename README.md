@@ -5,20 +5,13 @@
 
 ![Eli's GitHub stats - including private](https://github-readme-stats.vercel.app/api?username=theLadEli&count_private=true)
 
-**My JavaScript documentation:**
-[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md)
-
-**My Python documentation:**
-[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/Python#readme)
-
-**My SQL documentation:**
-[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/SQL)
-
-**My C# documentation:**
-[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/C%23/ReadMe.md)
-
-**My HTML documentation:**
-[Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme)
+| Language | Documentation |
+|---|---|
+| JavaScript | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md) |
+| Python | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/Python#readme) |
+| SQL | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/SQL) |
+| C# | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/C%23/ReadMe.md) |
+| HTML | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
