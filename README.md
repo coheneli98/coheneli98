@@ -8,13 +8,18 @@
 # My Programming Skillset
 To help learn and understand the languages I learn, I've written my own documentation (for most) while studying.
 
-| Language | Documentation & Notes | Progress |
+| Language | Documentation & Notes | Proficiency |
 |---|---|---|
-| JavaScript | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md) | ![75%](https://progress-bar.xyz/65) |
-| Python | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/Python#readme) | ![45%](https://progress-bar.xyz/45) |
-| SQL | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/SQL) | ![10%](https://progress-bar.xyz/10) |
-| C# | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/C%23/ReadMe.md) | ![5%](https://progress-bar.xyz/5) |
-| HTML | [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme) | ![100%](https://progress-bar.xyz/100) |
+| JavaScript | [Comprehensive: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md) | ![75%](https://progress-bar.xyz/65) |
+| Python | [Comprehensive: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/Python#readme) | ![40%](https://progress-bar.xyz/45) |
+| SQL | [Detailed: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/SQL) | ![10%](https://progress-bar.xyz/10) |
+| C# | [Overview: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/C%23/ReadMe.md) | ![5%](https://progress-bar.xyz/5) |
+| HTML | [Basic: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme) | ![100%](https://progress-bar.xyz/100) |
+| CSS | [Basic: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/CSS/ReadMe.md) | ![100%](https://progress-bar.xyz/100) |
+| Java | [Basic: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/Java#readme) | ![5%](https://progress-bar.xyz/5) |
+| RegEx | [Basic: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/Regex/ReadMe.md) | ![3%](https://progress-bar.xyz/3) |
+| Unix Command Line | [Basic: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/Unix%20Command%20Line) | ![60%](https://progress-bar.xyz/60) |
+| Website Design | [Basic: Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/Web%20Design/ReadMe.md) | ![92%](https://progress-bar.xyz/92) |
 
 
 <!--
