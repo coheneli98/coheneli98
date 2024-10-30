@@ -3,6 +3,8 @@
 - 🌱 I’m learning full stack
 - 🤝 Open to collaborate on any small projects
 
+![Eli's GitHub stats - including private](https://github-readme-stats.vercel.app/api?username=theLadEli&count_private=true)
+
 **My JavaScript documentation:**
 [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/blob/main/JavaScript/README.md)
 
@@ -18,8 +20,6 @@
 **My HTML documentation:**
 [Read Me ➛](https://github.com/theLadEli/my-full-stack-journey/tree/main/HTML#readme)
 
-
-![Eli's GitHub stats - including private](https://github-readme-stats.vercel.app/api?username=theLadEli&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
